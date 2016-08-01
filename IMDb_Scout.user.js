@@ -656,6 +656,9 @@ var icon_sites = [
 {   'name': 'Blu-ray.com',
     'searchUrl': 'http://www.blu-ray.com/search/?quicksearch=1&quicksearch_country=all&quicksearch_keyword=%search_string%+&section=bluraymovies',
     'showByDefault': false}
+    {   'name': 'trakt.tv',
+    'searchUrl': 'https://trakt.tv/search?query=%search_string%',
+    'showByDefault': true}
 ];
 
 // For internal use (order matters)
